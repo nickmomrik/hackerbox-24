@@ -1,6 +1,6 @@
 # HackerBox #0024: Vision Quest
 
-Check out the [Instructable for the box](https://www.instructables.com/id/HackerBox-0024-Vision-Quest/).
+Check out [my unboxing video and value analysis](https://nick.blog/2017/10/30/hackerbox-0024-vision-quest/) as well as the [Instructable for the box](https://www.instructables.com/id/HackerBox-0024-Vision-Quest/).
 
 I'll put any of my custom or modified code here.
 
